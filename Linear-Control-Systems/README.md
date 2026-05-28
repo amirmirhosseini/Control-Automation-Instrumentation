@@ -1,4 +1,4 @@
-# Linear Control Systems - University of Tehran (Winter-1404)
+# Linear Control Systems - University of Tehran (Winter 2025)
 
 This repository contains the assignments, analytical derivations, and MATLAB simulations for the **Linear Control Systems** course at the **University of Tehran**.
 
