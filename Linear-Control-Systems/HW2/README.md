@@ -1,6 +1,6 @@
 # Linear Control Systems - Assignment 2 (State-Space Representations & Linearization)
 
-This directory contains the computational simulations, state-space mapping, and dynamic linearization projects for the second assignment of the Linear Control Systems course at the University of Tehran. The assignment bridges theoretical transfer functions with real-world non-linear circuit modeling[cite: 16].
+This directory contains the computational simulations, state-space mapping, and dynamic linearization projects for the second assignment of the Linear Control Systems course at the University of Tehran. The assignment bridges theoretical transfer functions with real-world non-linear circuit modeling.
 
 ## Key Core Topics Covered
 
@@ -10,8 +10,8 @@ This directory contains the computational simulations, state-space mapping, and 
 
 ### 2. Non-Linear Circuit Modeling & Dynamic Linearization
 * **Dynamic Equation Derivation:** Establishing non-linear differential equations for a practical voltage regulator circuit incorporating exponential diode current characteristics.
-* **Operating Point Linearization:** Executing small-signal first-order approximations around a specific DC bias point to extract localized linear state-space models[cite: 16].
-* **Transient Response Validation:** Simulating the linearized system's response to step inputs to evaluate localized dynamic behavior[cite: 16].
+* **Operating Point Linearization:** Executing small-signal first-order approximations around a specific DC bias point to extract localized linear state-space models.
+* **Transient Response Validation:** Simulating the linearized system's response to step inputs to evaluate localized dynamic behavior.
 
 ### 3. Simulink Block-Diagram Integration & Behavior Testing
 * **State Interconnection Topology:** Implementing the linearized system equations within Simulink using elementary integrator, gain, and summing blocks to observe signal trajectories.
