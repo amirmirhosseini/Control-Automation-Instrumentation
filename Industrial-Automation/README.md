@@ -4,4 +4,4 @@ This repository contains responses, simulations, and reports for the Industrial 
 
 ## Project Structure
 
-* **Exercise 1:** Design, simulation, and control logic implementation for an automated manufacturing cell (material sorting and robotic packaging) using Factory I.O and Control I.O.
+* **Homework 1:** Design, simulation, and control logic implementation for an automated manufacturing cell (material sorting and robotic packaging) using Factory I.O and Control I.O.
